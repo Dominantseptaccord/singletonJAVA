@@ -13,5 +13,9 @@ class Main {
         System.out.println("update");
 
         System.out.println("dasda");
+        lol(1,3);
+    }
+    static void lol(int a,int b){
+        System.out.println(a+b);
     }
 }
