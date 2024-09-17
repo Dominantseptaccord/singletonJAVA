@@ -1,9 +1,9 @@
 
-m	java:S106"+Replace this use of System.out by a logger.(áîäœ8×Ş˜ûŸ2J$35313d4a-ade3-4ee5-a09b-b069b0b53192
-L	java:S106"+Replace this use of System.out by a logger.(©Õ¤±ıÿÿÿÿ8¡Ó¥ûŸ2
+m	java:S106"+Replace this use of System.out by a logger.(áîäœ8×Ş˜ûŸ2J$fcf11a03-5311-4b69-b1be-ff5a58df9eab
+r	java:S106"+Replace this use of System.out by a logger.(©Õ¤±ıÿÿÿÿ8‰Ö«ûŸ2J$f16e688f-f6e7-4c4e-b0f6-45992a52f98c
 s
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÙŞ˜ûŸ2J$f0b22664-61f6-47f3-9764-24a49c2c678f
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÙŞ˜ûŸ2J$957d01a2-b9bc-4337-8e36-dc5d52e2eefd
 s
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÚŞ˜ûŸ2J$cbf12f8c-ebc6-45b1-ba2b-1f8187f02391
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÚŞ˜ûŸ2J$3a891c5f-a255-4d6a-b5d3-ad0dddfa48d8
 v
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ÚŞ˜ûŸ2J$8b27ffd9-e475-42a1-b826-5ef0e8afaa73
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ÚŞ˜ûŸ2J$bccb5c62-50cc-4f56-afb0-e28f51c9cd5b
