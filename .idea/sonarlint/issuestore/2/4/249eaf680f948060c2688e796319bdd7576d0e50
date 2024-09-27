@@ -1,0 +1,11 @@
+
+Ü
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(¿Àò€8ÕÇ„©£2J$3008b6ec-72af-44a8-9c58-9117fea5201c
+Ÿ
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(„½‹Âøÿÿÿÿ8ÙÇ„©£2J$131fecea-d3ff-40e8-a7b8-2de01df5e2cc
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(öÍ½‰ÿÿÿÿÿ8©¨•©£2J$ddf17ba0-4c4f-449f-b2e7-c48d8adbd7f6
+~	java:S125	"<This block of commented-out lines of code should be removed.(ÍÛÈ²8ÚÏ‡©£2J$a7d5df7c-0fd4-41e3-b874-6a0b63852a8a
+ƒ	java:S125
+"<This block of commented-out lines of code should be removed.(Ûû¶Èúÿÿÿÿ8”ä‹©£2J$70c04c87-2baa-47db-8d5e-ded1576a280b
+r	java:S106"+Replace this use of System.out by a logger.(æ÷½‰þÿÿÿÿ8áÇ„©£2J$38d5f64d-be00-465a-91fb-350ca021b911
+r	java:S106"+Replace this use of System.out by a logger.(ž™¤üùÿÿÿÿ8ãÇ„©£2J$23d79797-426f-4a44-9f17-94377b7ca0b6
